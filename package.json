@@ -29,7 +29,7 @@
     "node": ">=10.0.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.433.0",
+    "aws-sdk": "^2.1692.0",
     "kubernetes-client": "^8.2.0",
     "lodash.clonedeep": "^4.5.0",
     "make-promises-safe": "^5.0.0",
@@ -45,11 +45,11 @@
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-security": "^1.4.0",
     "eslint-plugin-standard": "^4.0.0",
-    "mocha": "^6.1.4",
-    "nodemon": "^1.18.10",
+    "mocha": "^11.7.1",
+    "nodemon": "^3.1.10",
     "nyc": "^14.0.0",
     "sinon": "^7.3.1",
-    "standard-version": "^6.0.1"
+    "standard-version": "^9.5.0"
   },
   "nyc": {
     "check-coverage": true,
